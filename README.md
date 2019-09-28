@@ -10,7 +10,7 @@ Various methods
     ├── insert_begin          # insert node from left
     ├── insert_end            # insert node from right
     ├── insertAt              # insert node at given index
-    ├── getAt                 # give value at given index
+    ├── getAt                 # return value of node at given index
     ├── delete                # delete node from right
     ├── deleteAt              # delete node at given index
     └── deleteThis            # delete node of desired value
