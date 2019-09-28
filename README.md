@@ -3,7 +3,9 @@ Implementation of data structure programs in Python
 
 #### Linked List
 list = linkedlist() 
+
 Various methods
+
     .
     ├── insert_begin          # insert node from left
     ├── insert_end            # insert node from right
