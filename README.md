@@ -1,7 +1,7 @@
 # Data-Structure
 Implementation of data structure programs in Python
 
-#### Linked List
+#### Singly Linked List
 list = linkedlist() 
 
 Various methods
@@ -21,3 +21,18 @@ Various methods
     ├── reverse               # reverse the linked list              
     └── display               # print the linked list
     ├── length                # size of the linked list              
+
+#### Doubly Linked List
+list = DoublyLinkedList() 
+
+Various methods
+
+    .
+    ├── insert_begin          # insert node from left
+    ├── insert_end            # insert node from right
+    ├── delete                # delete node from right
+    ├── reverse               # reverse the linked list              
+    └── display               # print the linked list
+    ├── length                # size of the linked list 
+    
+Some of the methods described in singly linked list can be used in doubly linked list with a little modification.
