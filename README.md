@@ -9,11 +9,11 @@ Various methods
     .
     ├── insert_begin          # insert node from left
     ├── insert_end            # insert node from right
-    ├── insertAt              # insert node at given index
-    ├── getAt                 # return value of node at given index
+    ├── insert_at             # insert node at given index
+    ├── get_at                # return value of node at given index
     ├── delete                # delete node from right
-    ├── deleteAt              # delete node at given index
-    └── deleteThis            # delete node of desired value
+    ├── delete_at             # delete node at given index
+    └── delete_this           # delete node of desired value
     ├── replace               # replace the node of given value by desired value
     └── search                # returns the index of desired data
     ├── swap                  # swap the values of given two nodes             
