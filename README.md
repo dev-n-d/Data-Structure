@@ -2,7 +2,7 @@
 Implementation of data structure programs in Python
 
 #### Singly Linked List
-list = linkedlist() 
+linked_list = LinkedList() 
 
 Various methods
 
